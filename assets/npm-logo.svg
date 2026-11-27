@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 112" width="460" height="112" role="img" aria-label="Afilimax">
+  <defs>
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F86CAF"/>
+      <stop offset="100%" stop-color="#7366FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="458" height="110" rx="20" fill="#0A0A0A" stroke="#27272A" stroke-width="2"/>
+  <g transform="translate(20 16)">
+    <rect x="0" y="0" width="80" height="80" rx="18" fill="#111114" stroke="#27272A" stroke-width="1.5"/>
+    <g transform="translate(40 40) scale(0.13) translate(-256 -256)">
+      <g fill="none" stroke="url(#brandGrad)" stroke-width="44" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="176" cy="256" r="80"/>
+        <path d="M256 176V336"/>
+        <path d="M256 216A40 40 0 0 1 336 216V336M336 216A40 40 0 0 1 416 216V336"/>
+      </g>
+    </g>
+  </g>
+  <text x="120" y="61" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-1.6">
+    <tspan fill="#FAFAFA">afili</tspan><tspan fill="url(#brandGrad)">max</tspan>
+  </text>
+  <text x="122" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#A1A1AA">
+    Ecossistema Open Source • afilimax.net
+  </text>
+</svg>
